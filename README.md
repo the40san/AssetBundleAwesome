@@ -1,0 +1,2 @@
+# AssetBundleAwesome
+AssetBundleをAwesomeしたい
